@@ -38,7 +38,6 @@ int main(){
     while(t--){
         cin >> n >> m;
         
-
         for(int i = 0; i < n; i++)
             cin >> sc[i];
         
