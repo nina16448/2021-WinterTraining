@@ -12,7 +12,6 @@ void DFS(int x, int y){
 
     for(auto d: dir)
         DFS(x + d[0], y + d[1]);
-    
 }
 
 int main(){
